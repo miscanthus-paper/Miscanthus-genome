@@ -1,0 +1,3 @@
+[submodule "artisanal"]
+	path = artisanal
+	url = https://bitbucket.org/bredeson/artisanal.git
